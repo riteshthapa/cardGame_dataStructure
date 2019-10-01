@@ -3,7 +3,7 @@ Game Strategy
 
 READ ME!
 
-Short write-up describibg the strategy that you used for bidding and deciding whether to play or not.
+Short write-up describing the strategy that you used for bidding and deciding whether to play or not.
 -----------------------------------------------------------------------------------------------------
 Ritesh Thapa - 04/20/2018
 
